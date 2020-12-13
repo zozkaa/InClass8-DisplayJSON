@@ -1,0 +1,146 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 100%;
+}
+ /*  Mobile Menu   */
+ .control-strip{
+   padding:  1rem;
+   box-shadow: 0 0 5px 0 rgb(196, 196, 196);
+   color:grey;
+ }
+ .icon-view{
+   display:flex;
+   justify-content: space-between;
+   align-items: center;
+ }
+ .login{
+   border:none;
+   background-color: transparent;
+   border-radius: 4px;
+   padding: 0.25rem 1.5rem;
+   box-shadow: 0 0 3px 0 grey;
+   color:grey;
+ }
+ .icon{
+   height:  1.5rem;
+ } 
+
+ /*  MAIN */
+ main{
+   padding: 1rem;
+ }
+
+ /*  RENTALS CARD */
+ .rentals{
+   width: 100%;
+
+ }
+ .rental{
+  margin-bottom: 3rem;
+ }
+ .thumbnail{
+   border-radius: 12px;
+   width: 100%;
+   object-fit: cover;
+   object-position: center bottom;
+   height: 250px;
+ }
+
+ .details{
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   color: #666666;
+   font-size: 14px;
+   line-height: 1rem;
+   font-weight: 600;
+ }
+ .location{
+  order: 3;
+}
+.price{
+  order: 2;
+  font-size: 13px;
+}
+.price span{
+  color: #333333;
+  font-size: 1.125rem;
+  padding-left: 0.25rem;  
+}
+.rating{
+  order: 1;
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.25rem;
+}
+ .rating span:first-of-type{
+   color: #333333;
+   font-weight: 600;
+   letter-spacing: -1px;
+   margin-right: 0.25rem;
+ }
+ .rating span:last-of-type{
+   font-size: 15px;
+   letter-spacing: -1px;
+ }
+ .star-icon{
+   width: 1.25rem;
+   margin-right: 0.25rem;
+ }
+ 
+ /* SMALL VIEWPORT */
+ .desciption, .type{
+   display: none;
+ }
+
+@media(min-width:600px){
+  .desciption, .type{
+    display: block;
+  }
+  .location, .rating, .price{
+    order: 0;
+    font-weight: 600;
+  }
+  .thumbnail{
+    width: 250px;
+    height: 160px;
+  }
+  .rental{
+    display: flex;
+    margin: 2.5rem auto;
+    max-width: 600px;
+  }
+  .details{
+    justify-content: flex-start;
+    padding: 1rem 0 0 1rem;
+  }
+  .desciption{
+    margin-bottom: auto;
+  }
+  .rating{
+    padding-bottom: 0.7rem ;
+  }
+  li{
+    padding: 2px 0;
+  }
+}
+
+@media(min-width:1200px){
+  main{
+    max-width: 2000px;
+    margin: 0 auto;
+  }
+.rentals{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.rental{
+  margin: 0;
+}
+
+}

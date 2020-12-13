@@ -1,0 +1,162 @@
+[
+    {
+        "id": "46096339",
+        "location": "lamina",
+        "thumbnail": "stay-1.webp",
+        "rentalType": "entire loft",
+        "starRating": "4.76(216)",
+        "dailyRate": 32,
+        "currency": "CAD",
+        "description": "Nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque perferendis et."
+    },
+    {
+        "id": "e1d041c8",
+        "location": "Contem El Simora",
+        "thumbnail": "stay-2.webp",
+        "rentalType": "entire house ",
+        "starRating": "4.96(816)",
+        "dailyRate": 163,
+        "currency": "CAD",
+        "description": "Sunt a reiciendis repellat perferendis et labore incidunt, corrupti excepturi ullam nesciunt deserunt eius uptas atque."
+    },
+    {
+        "id": "21baeff6",
+        "location": "Carpe Annana",
+        "thumbnail": "stay-4.webp",
+        "rentalType": "entire loft",
+        "starRating": "4.76(216)",
+        "dailyRate": 32,
+        "currency": "CAD",
+        "description": "Voluptas at que sectetur, adipisop icing elit. Sunt a reiciendis repellat perferendis et labore incidunt, corrupti excepturi ullam."
+    },
+    {
+        "id": "ad530eac",
+        "location": "Trinidad",
+        "thumbnail": "stay-6.webp",
+        "rentalType": "private room",
+        "starRating": "4.76(216)",
+        "dailyRate": 61,
+        "currency": "CAD",
+        "description": "Iunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque isop icing elit. Sunt a reiciendis."
+    },
+    {
+        "id": "ad530eac",
+        "location": "Playa Larga",
+        "thumbnail": "stay-8.webp",
+        "rentalType": "hotel room",
+        "starRating": "4.31(124)",
+        "dailyRate": 35,
+        "currency": "CAD",
+        "description": "Ibu uma quincidunt, corrupti excepturi ullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupi ditate que."
+    },
+    {
+        "id": "ad530eac",
+        "location": "Bay Mont Orales",
+        "thumbnail": "stay-10.webp",
+        "rentalType": "hotel room",
+        "starRating": "4.76(121)",
+        "dailyRate": 89,
+        "currency": "CAD",
+        "description": "Sucept uri ullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate volu que."
+    },
+    {
+        "id": "eea8717f",
+        "location": "Hamcaczol",
+        "thumbnail": "stay-12.webp",
+        "rentalType": "shared room",
+        "starRating": "4.01(271)",
+        "dailyRate": 65,
+        "currency": "CAD",
+        "description": "Dunt, corrup m nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupid ita temp oriluptas atque."
+    },
+    {
+        "id": "06939bcc",
+        "location": "Chinchola Mons",
+        "thumbnail": "stay-14.webp",
+        "rentalType": "entire place",
+        "starRating": "4.27(269)",
+        "dailyRate": 90,
+        "currency": "CAD",
+        "description": " rem ipsum do upti excepturi ullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque."
+    },
+    {
+        "id": "95d93257",
+        "location": "hamcaczol",
+        "thumbnail": "stay-16.webp",
+        "rentalType": "private room",
+        "starRating": "4.31(124)",
+        "dailyRate": 75,
+        "currency": "CAD",
+        "description": "Kinndis et labore incidunt, corrupti excepturi ullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque."
+    },
+    {
+        "id": "b7cf5a57",
+        "location": "oceana pero nombrusco",
+        "thumbnail": "stay-18.webp",
+        "rentalType": "entire hosue",
+        "starRating": "4.85(371)",
+        "dailyRate": 125,
+        "currency": "CAD",
+        "description": "Reiciendis repellat perferen  dis et labore incidunt, corrupti excepturi ullam nesciunt de serunt eius, ipsum tempor bus ve."
+    },
+    {
+        "id": "06939bcc",
+        "location": "pesquera miloto",
+        "thumbnail": "stay-20.webp",
+        "rentalType": "entire appartment",
+        "starRating": "4.92(425)",
+        "dailyRate": 160,
+        "currency": "CAD",
+        "description": "Uullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atqrunt eius, ips umrunt eius, ipsum tee."
+    },
+    {
+        "id": "33fa06d7",
+        "location": "Jhanminhiz Apreszo",
+        "thumbnail": "stay-21.webp",
+        "rentalType": "entire room",
+        "starRating": "4.15(128)",
+        "dailyRate": 45,
+        "currency": "CAD",
+        "description": "Iu turi ullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque."
+    },
+    {
+        "id": "c9e9aea1",
+        "location": "pesquera miloto",
+        "thumbnail": "stay-22.webp",
+        "rentalType": "entire appartment",
+        "starRating": "4.15(136)",
+        "dailyRate": 145,
+        "currency": "CAD",
+        "description": "Gio asec am nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque."
+    },
+    {
+        "id": "8b13adc9",
+        "location": "pesquera miloto",
+        "thumbnail": "stay-23.webp",
+        "rentalType": "hotel room",
+        "starRating": "4.15(136)",
+        "dailyRate": 145,
+        "currency": "CAD",
+        "description": "Dolor sit amet consectetur, adipisicing elit. Sunt a reiciendis repellat perferendis et labore incidunt, corrupti."
+    },
+    {
+        "id": "ac99effc",
+        "location": "kimperai sa feslik",
+        "thumbnail": "stay-26.webp",
+        "rentalType": "entire house",
+        "starRating": "4.35(136)",
+        "dailyRate": 149,
+        "currency": "CAD",
+        "description": "Pal cirilam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque."
+    },
+    {
+        "id": "1f668c4b",
+        "location": "luna masino",
+        "thumbnail": "stay-27.webp",
+        "rentalType": "hotel room",
+        "starRating": "4.41(224)",
+        "dailyRate": 110,
+        "currency": "CAD",
+        "description": "Abore incidunt, corrupti excepturi ullam nesciunt deserunt eius, ipsum temporibus velit laudantium suscipit cupiditate voluptas atque."
+    }
+]
